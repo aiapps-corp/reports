@@ -1,5 +1,0 @@
-D:\Workspaces\Source\Repos\Alpha\Enterprise\Aiapps.Reporting\bin\Release\Aiapps.Reporting.dll
-D:\Workspaces\Source\Repos\Alpha\Enterprise\Aiapps.Reporting\bin\Release\Aiapps.Reporting.pdb
-D:\Workspaces\Source\Repos\Alpha\Enterprise\Aiapps.Reporting\obj\Release\Aiapps.Reporting.csproj.CoreCompileInputs.cache
-D:\Workspaces\Source\Repos\Alpha\Enterprise\Aiapps.Reporting\obj\Release\Aiapps.Reporting.dll
-D:\Workspaces\Source\Repos\Alpha\Enterprise\Aiapps.Reporting\obj\Release\Aiapps.Reporting.pdb
