@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/aiapps-corp/reports</licenseUrl>
+    <projectUrl>https://github.com/aiapps-corp/reports</projectUrl>
+    <iconUrl>https://avatars2.githubusercontent.com/u/41272757?s=400&u=8af081610ac78e57c3eda68f27d11c5e6e702abc&v=4</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Reports</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Tag1 Tag2</tags>
+  </metadata>
+</package>
