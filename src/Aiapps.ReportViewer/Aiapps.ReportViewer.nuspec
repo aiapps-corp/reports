@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Aiapps.Reporting</id>
+    <id>Aiapps.ReportViewer</id>
     <version>1.0.0.0</version>
-    <title>Aiapps.Reporting</title>
+    <title>Aiapps.ReportViewer</title>
     <authors>aiapps-corp</authors>
     <owners>aiapps-corp</owners>
     <licenseUrl>https://github.com/aiapps-corp/reports</licenseUrl>
@@ -13,6 +13,6 @@
     <description>Reports</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2018</copyright>
-    <tags>Aiapps.Reporting</tags>
+    <tags>Aiapps.ReportViewer</tags>
   </metadata>
 </package>
