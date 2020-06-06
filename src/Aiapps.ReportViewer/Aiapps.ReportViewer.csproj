@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>net48</TargetFrameworks>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
