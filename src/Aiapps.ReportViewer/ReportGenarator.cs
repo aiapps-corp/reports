@@ -61,6 +61,7 @@ namespace Aiapps.ReportViewer
 
                 var viewer = new Microsoft.Reporting.WebForms.ReportViewer();
                 viewer.ProcessingMode = ProcessingMode.Local;
+                viewer.LocalReport.EnableHyperlinks = true;
                 viewer.LocalReport.ReportPath = reportPath;
                 _logger.Debug($"Report Path: {reportPath}");
                 viewer.LocalReport.EnableExternalImages = true;
