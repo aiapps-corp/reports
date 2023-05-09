@@ -2,16 +2,18 @@
 
   <PropertyGroup>
     <TargetFrameworks>net48</TargetFrameworks>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Properties\" />
+    <Compile Remove="Properties\**" />
+    <EmbeddedResource Remove="Properties\**" />
+    <None Remove="Properties\**" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Common.Logging" Version="3.4.1" />
-    <PackageReference Include="Microsoft.ReportingServices.ReportViewerControl.WebForms" Version="150.1404.0" />
+    <PackageReference Include="Microsoft.ReportingServices.ReportViewerControl.WebForms" Version="150.1576.0" />
   </ItemGroup>
 
   <ItemGroup>
