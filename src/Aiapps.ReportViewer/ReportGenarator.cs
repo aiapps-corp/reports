@@ -73,9 +73,11 @@ namespace Aiapps.ReportViewer
                 byte[] bytes = viewer.LocalReport.Render(
                         format, null, out mimeType, out encoding, out extension,
                         out streamids, out warnings);
+                viewer.Dispose();
+                viewer = null;
                 return bytes;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 throw;
             }
